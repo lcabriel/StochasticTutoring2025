@@ -2,7 +2,7 @@
 
 In this directory you will find all the assignments. 
 
-Completing the assignments is a requirement for taking the exam. We will give you new assignments every 1-2 weeks. You need to hand them in before the next tutoring session or, as we will let you know, by the next assignment deadline.
+Completing the assignments is a requirement for taking the exam. We will give you new assignments every 1-2 weeks. You need to hand them in before the next tutoring session or, as we will let you know, by the next assignment deadline. The assignments are individual thus cannot be done in groups.
 
 Assignments will also be graded.
 
